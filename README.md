@@ -16,6 +16,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
-[![](https://komarev.com/ghpvc/?username=cipher-x-sudo&icon=1&color=13)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=cipher-x-sudo&icon=1&color=blue)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
